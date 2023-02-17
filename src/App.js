@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React - Wow, i finally got GitHub pages working…
-          One day this will function
         </a>
       </header>
     </div>
