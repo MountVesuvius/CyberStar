@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/CyberStar/static/css/main.073c9b0a.css",
-    "main.js": "/CyberStar/static/js/main.707b3ef8.js",
+    "main.css": "/CyberStar/static/css/main.c71f1747.css",
+    "main.js": "/CyberStar/static/js/main.28e3b7d1.js",
     "static/js/787.2169d98e.chunk.js": "/CyberStar/static/js/787.2169d98e.chunk.js",
-    "static/media/logo.svg": "/CyberStar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CyberStar/index.html",
-    "main.073c9b0a.css.map": "/CyberStar/static/css/main.073c9b0a.css.map",
-    "main.707b3ef8.js.map": "/CyberStar/static/js/main.707b3ef8.js.map",
+    "main.c71f1747.css.map": "/CyberStar/static/css/main.c71f1747.css.map",
+    "main.28e3b7d1.js.map": "/CyberStar/static/js/main.28e3b7d1.js.map",
     "787.2169d98e.chunk.js.map": "/CyberStar/static/js/787.2169d98e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.707b3ef8.js"
+    "static/css/main.c71f1747.css",
+    "static/js/main.28e3b7d1.js"
   ]
 }
