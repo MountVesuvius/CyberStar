@@ -34,11 +34,18 @@ const BlockGallery = () => {
 		}
 	}
 
-	blockPointArray.forEach((e) => {
+	const array = [
+		[250, 250],
+		[500, 250],
+		[250, 600],
+
+	]
+
+	array.forEach((e) => {
 		blockStorageArray.push(
 			<Block 
 				xPos={e[0]} yPos={e[1]}
-				width={e[2]} height={e[3]}
+				width={250} height={250}
 			/>
 		)
 	})

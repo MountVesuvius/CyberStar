@@ -3,12 +3,10 @@ import React, { useRef } from 'react';
 const Block = ({width, height, xPos, yPos}) => {
 
 	const BlockStyles = useRef({
-		position: 'absolute',
 		width: `${width}px`,
 		height: `${height}px`,
 		top: `${yPos}px`,
 		left: `${xPos}px`,
-		transform: 'translate(-50%, -50%)'
 	});
 
 	return (

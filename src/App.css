@@ -1,4 +1,12 @@
+html, body {
+	background-color: black;
+	overflow: hidden;
+
+}
+
 .block {
+	position: absolute;
+	transform: translate(-50%, -50%);
 	background: green;	
 	color: transparent;
 	border-radius: 3%;
@@ -9,4 +17,35 @@
 .block:Hover {
 	background: red;
 	color: white;
+}
+
+.mouse-effect {
+	background: linear-gradient(
+		to right, aquamarine, mediumpurple
+	);
+	width: 500px;
+	aspect-ratio: 1;
+	position: absolute;
+
+	transform: translate(-50%, -50%);
+	border-radius: 50%;
+	opacity: 0.2;
+/* 	animation: pulse 10s infinite; */
+	
+/* 	filter: blur(100px); */
+}
+
+@keyframes pulse {
+	from {
+		width: 500px;
+	}	
+
+	50% {
+		width: 600px;
+		scale: 1 1.2;
+	}
+
+	to {
+		width: 500px;
+	}
 }

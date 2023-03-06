@@ -1,0 +1,51 @@
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Play Space</title>
+	</head>
+
+	<body>
+		<style type="text/css">
+			html {
+				background: black;
+			}
+
+			.block {
+				border-radius: 1vmax;
+				height: 20%;
+				width: 20%;
+
+				color: white;
+
+				position: absolute;
+				transition: transform 500ms ease;
+			}
+
+			.block:hover {
+				transform: scale(1.1);
+			}
+
+			.block:nth-child(1) {
+				background-color: rgb(255, 238, 88);
+				left: 5%;
+				top: 5%;
+			}
+
+			.block:nth-child(2) {
+				background-color: rgb(66, 165, 245);
+				left: 25%;
+				top: 20%;
+			}
+		</style>		
+
+		<div class="block-gallery">
+			<a href="#">
+				<div class="block">Hello</div>
+			</a>
+			<div class="block">There</div>
+		</div>
+	</body>
+</html>
+
+<!-- https://codepen.io/Hyperplexed/pen/VwXXPKJ -->
+<!-- https://blog.bitsrc.io/make-smooth-fade-in-fade-out-page-transitions-with-react-router-8a39593f0b -->
