@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CyberStar/static/css/main.a9a7a74e.css",
-    "main.js": "/CyberStar/static/js/main.d9087934.js",
+    "main.css": "/CyberStar/static/css/main.c3421705.css",
+    "main.js": "/CyberStar/static/js/main.092d9302.js",
     "static/js/787.2169d98e.chunk.js": "/CyberStar/static/js/787.2169d98e.chunk.js",
     "index.html": "/CyberStar/index.html",
-    "main.a9a7a74e.css.map": "/CyberStar/static/css/main.a9a7a74e.css.map",
-    "main.d9087934.js.map": "/CyberStar/static/js/main.d9087934.js.map",
+    "main.c3421705.css.map": "/CyberStar/static/css/main.c3421705.css.map",
+    "main.092d9302.js.map": "/CyberStar/static/js/main.092d9302.js.map",
     "787.2169d98e.chunk.js.map": "/CyberStar/static/js/787.2169d98e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9a7a74e.css",
-    "static/js/main.d9087934.js"
+    "static/css/main.c3421705.css",
+    "static/js/main.092d9302.js"
   ]
 }
